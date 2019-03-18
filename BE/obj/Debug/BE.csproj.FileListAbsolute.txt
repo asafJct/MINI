@@ -1,0 +1,5 @@
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BE\bin\Debug\BE.dll
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BE\bin\Debug\BE.pdb
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BE\obj\Debug\BE.dll
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BE\obj\Debug\BE.pdb
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache

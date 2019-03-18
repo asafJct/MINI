@@ -1,0 +1,14 @@
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\obj\Debug\App.g.cs
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\obj\Debug\BL_3300_MarkupCompile.cache
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\obj\Debug\BL_3300.Properties.Resources.resources
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\obj\Debug\BL.csproj.GenerateResource.Cache
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\bin\Debug\BL_3300.exe.config
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\bin\Debug\BL_3300.exe
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\bin\Debug\BL_3300.pdb
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\bin\Debug\BE.dll
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\bin\Debug\DAL.dll
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\bin\Debug\BE.pdb
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\bin\Debug\DAL.pdb
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\obj\Debug\BL_3300.exe
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\BL_3300\obj\Debug\BL_3300.pdb

@@ -1,0 +1,7 @@
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\DAL\bin\Debug\DAL.dll
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\DAL\bin\Debug\DAL.pdb
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\DAL\bin\Debug\BE.dll
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\DAL\bin\Debug\BE.pdb
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\DAL\obj\Debug\DAL.dll
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\DAL\obj\Debug\DAL.pdb
